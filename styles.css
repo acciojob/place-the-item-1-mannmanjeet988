@@ -1,20 +1,16 @@
 
 /* Your CSS Code here. */
-*{
-margin: 0px;
-padding: 0px;
-}
+
 
 .container{
     display : flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    column-gap:  10px;
 }
 
  .item {
    height : 100px;
-   width:14%;
+   width:16%;
    background-color: green; 
 }
 
